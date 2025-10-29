@@ -47,6 +47,6 @@ redirect_from:
 * Basic Spanish dialogue
   
 ## Research
-======
+
 * (2025) Undergraduate Research Assistant: behavior analysis study, "Teaching Why"
 * Doctoral student: Joy Clayborne
