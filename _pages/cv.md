@@ -11,54 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Geography & Environmental Systems, UMBC, 2026
+* B.A. in Psychology, UMBC, 2026
+  Certifications
+  * GIScience, Human Services Psychology Specialization (2026)
+  * CITI Social and Behavioral Research certification (date)
+* A.A. in Psychology, Frederick Community College, idk
 
+Volunteer Experience
+======
+* (date) Montgomery County - Nature Forward Water Quality Monitoring Team
+  * Ten Mile Creek, Clarksville, MD
+  * Tasks: Sample collection using D-Net, sorting, viewing & identifying macroinvertebrates using field microscope, observe scoring method
+  * Team leader: Cathy Wiss
+ 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* (date): Senior Associate
+  * Rick's Fish & Pet Supply
+  * Water testing and maintenance, customer service, animal husbandry, phone correspondance, staff and task management...
+  * Supervisor: Jake Hess
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* GIS & Imagery Software
+  * ArcGIS Pro, ArcOnline, Field Maps
+  * QGIS
+  * R programming
+  * ENVI
+  * Google Earth Engine
+* Literature reviews and database search
+* Microsoft Applications
+* Basic Spanish dialogue
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
-Talks
+Research
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* (2025) Undergraduate Research Assistant: behavior analysis study, "Teaching Why"
+* Doctoral student: Joy Clayborne
