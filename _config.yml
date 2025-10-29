@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Anisa Asad / Projects, Experience, Stuff"
+title                    : "Anisa Asad / Resume & Portfolio"
 title_separator          : "-"
 name                     : &name "Anisa Asad"
 description              : &description "Anisa Asad's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
