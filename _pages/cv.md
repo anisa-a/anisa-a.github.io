@@ -13,10 +13,10 @@ Education
 ======
 * B.S. in Geography & Environmental Systems, UMBC, 2026
 * B.A. in Psychology, UMBC, 2026
-  Certifications
+* Certifications:
   * GIScience, Human Services Psychology Specialization (2026)
   * CITI Social and Behavioral Research certification (date)
-* A.A. in Psychology, Frederick Community College, idk
+* A.A. in Psychology, Frederick Community College, (date)
 
 Volunteer Experience
 ======
