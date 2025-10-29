@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
+
 * B.S. in Geography & Environmental Systems, UMBC, 2026
 * B.A. in Psychology, UMBC, 2026
 * Certifications:
@@ -18,22 +18,24 @@ Education
   * CITI Social and Behavioral Research certification (date)
 * A.A. in Psychology, Frederick Community College, (date)
 
-Volunteer Experience
-======
+### Here I may put a section on academic/ course highlights
+
+## Volunteer Experience
+
 * (date) Montgomery County - Nature Forward Water Quality Monitoring Team
   * Ten Mile Creek, Clarksville, MD
   * Tasks: Sample collection using D-Net, sorting, viewing & identifying macroinvertebrates using field microscope, observe scoring method
   * Team leader: Cathy Wiss
  
-Work experience
-======
+## Work experience
+
 * (date): Senior Associate
   * Rick's Fish & Pet Supply
   * Water testing and maintenance, customer service, animal husbandry, phone correspondance, staff and task management...
   * Supervisor: Jake Hess
   
-Skills
-======
+## Skills
+
 * GIS & Imagery Software
   * ArcGIS Pro, ArcOnline, Field Maps
   * QGIS
@@ -43,9 +45,8 @@ Skills
 * Literature reviews and database search
 * Microsoft Applications
 * Basic Spanish dialogue
-
   
-Research
+## Research
 ======
 * (2025) Undergraduate Research Assistant: behavior analysis study, "Teaching Why"
 * Doctoral student: Joy Clayborne
