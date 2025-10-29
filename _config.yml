@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Anisa Asad / Resume & Portfolio"
+title                    : "Anisa Asad - Resume & Portfolio"
 title_separator          : "-"
 name                     : &name "Anisa Asad"
 description              : &description "Anisa Asad's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -27,7 +27,7 @@ author:
   name             : "Anisa Asad"
   pronouns         : "she/her"  
   bio              : "UMBC undergraduate (Class of Spring 2026) majoring in Geography & Environmental Systems and Psychology."
-  location         : "Maryland"
+  location         : "Frederick, Maryland"
   employer         : 
   uri              : # URL
   email            : "anasad248@gmail.com" 
