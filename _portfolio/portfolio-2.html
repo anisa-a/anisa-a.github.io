@@ -1,7 +1,40 @@
 ---
-title: "TRI facilities and Darters"
-excerpt: "Hazardous waste and darter fish observations (2024) <br/><img src='/images/TRI.png'>"
+title: "Wetlands in the Monocacy Watershed"
+excerpt: "Looking at hydrogeomorphic variation among wetland types" (2025) <br/><img src='/images/file.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Background
+Wetlands are diverse ecosystems with distinct species assemblages. Human activities e.g. land use change are a significant threat to wetlands. Accurately locating and differentiating wetland types is critical for predicting risks; wetlands vary in factors e.g. water source and landscape position. The National Wetland Inventory (US FWS) is one of the main resources for wetland identification. Much of the model’s imagery is outdated, among other challenges. Additional models based on factors besides or in addition to imagery could provide updated information and cross validation for wetland type and location. 
+
+## Objective
+This study examines whether DEM derived hydrogeomorphic variables significantly differ between wetland types, which may provide directions for future models. Using NWI polygons as an initial classification system, this study predicts type dependent differences in slope, Topographic Wetness Index, geomorphon landforms, and distances to large/small stream orders. 
+
+## Methods
+**Data**
+NWI wetlands shapefile
+1/3 arc second (10m) DEM (USGS)
+Geomorphons and hydrography from Chesapeake Bay Hyper Resolution Hydrography dataset
+
+**ArcGIS**
+Zonal statistics for each wetland polygon
+  Mean Slope (degrees)
+  Mean Topographic wetness index (TWI) as Ln( ((FlowAccumulation + 1) * cell size) / (percentrise / 100.0) )
+  Majority 10m geomorphon landform value (valley scale)
+  Majority 1m geomorphon landform value
+  1m landform variety (# unique values)
+
+ArcGIS Near tool
+  Distance to a 1st or 2nd order stream
+  Distance to a 3rd order or higher
+
+**R Studio**
+Box plot and histogram visualizations of variables by wetland type
+
+## Results/Conclusions
+1) distance to larger orders (or very high acc values) and landforms show strongest apparent difference; these may have implications for distinguishing ponds/lakes from other types. TWI is also potentially significant. Median slope for all was below 5°.  
+2) There is a large quantity of outliers for many variables, suggesting high variability within the NWI polygons. This emphasizes both variability in wetlands and a need to further investigate these variables with different datasets.
+
+
+
+
